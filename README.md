@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @kunalcse27
-- 👀 I’m interested in full stack role
-- 🌱 I’m currently learning full stack development 
-- 📫 How to reach me kunal.cse27@gmail.com
-- 😄 Pronouns: He/His
+<h1 align="center">Hi, I'm Kunal 👋</h1>
 
-<!---
-kunalcse27/kunalcse27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  Aspiring Full Stack Developer | Passionate about building web apps
+</p>
+
+---
+
+- 🔭 I’m currently focused on **Full Stack Development**
+- 🌱 Learning daily: **Java, Python, SQL, Spring**
+- 💬 Ask me about: HTML, CSS, JavaScript, Git
+- 📫 Reach me at: [kunal.cse27@gmail.com](mailto:kunal.cse27@gmail.com)
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy making UI designs look clean and modern. I'm also learning backend skills.
+
+---
+
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="https://github.com/kunalcse27" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kunal-kumar-269835378/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ogtimXU4Qi/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codolio.com/profile/kunal.cse27" target="_blank">
+    <img alt="Codolio" src="https://img.shields.io/badge/Codolio-111?style=for-the-badge&logo=code&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalcse27&show_icons=true&theme=radical" alt="Kunal's GitHub stats" />
+</p>
