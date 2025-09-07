@@ -35,10 +35,8 @@
 ---------------------------------------------------
 <p align="center">
   <a href="https://codolio.com/profile/kunal.cse27" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/ogtimXU4Qi?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://codolio.com/profile/kunal.cse27" target="_blank">
     <img alt="Codolio Profile" src="https://img.shields.io/badge/Codolio-00A8E8?style=for-the-badge&logo=code&logoColor=white" />
