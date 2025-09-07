@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kunal </h1>
+<h1 align="center">Hi, I'm Kunal Kumar </h1>
 
 <p align="center">
   Aspiring Full Stack Developer | Passionate about building web apps
@@ -35,7 +35,8 @@
 ---------------------------------------------------
 <p align="center">
   <a href="https://leetcode.com/u/ogtimXU4Qi/" target="_blank">
-    <img alt="LeetCode Profile" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img alt="LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=ogtimXU4Qi&theme=dark&show_icons=true" />
   </a>
 </p>
+
 
