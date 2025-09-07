@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kunal 👋</h1>
+<h1 align="center">Hi, I'm Kunal </h1>
 
 <p align="center">
   Aspiring Full Stack Developer | Passionate about building web apps
@@ -6,7 +6,7 @@
 
 --------------------------------------------------------
 
-- 🔭 I’m currently focused on **Full Stack Development**
+- 🔭I am a 3rd year computer engineering student(CSE'27). currently focused on **Full Stack Development**
 - 🌱 Learning daily: **Java, Python, SQL, Spring**
 - 💬 Ask me about: HTML, CSS, JavaScript, Git
 - 📫 Reach me at: [kunal.cse27@gmail.com](mailto:kunal.cse27@gmail.com)
@@ -34,12 +34,8 @@
 
 ---------------------------------------------------
 <p align="center">
-  <a href="https://codolio.com/profile/kunal.cse27" target="_blank">
-  </a>
-</p>
-<p align="center">
-  <a href="https://codolio.com/profile/kunal.cse27" target="_blank">
-    <img alt="Codolio Profile" src="https://img.shields.io/badge/Codolio-00A8E8?style=for-the-badge&logo=code&logoColor=white" />
+  <a href="https://leetcode.com/u/ogtimXU4Qi/" target="_blank">
+    <img alt="LeetCode Profile" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
