@@ -34,8 +34,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalcse27&show_icons=true&theme=radical" alt="Kunal's GitHub stats" />
-</p>
+<p align="center"> <a href="https://leetcode.com/u/ogtimXU4Qi/" target="_blank"> <img src="https://leetcard.jacoblin.cool/ogtimXU4Qi?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" /> </a> </p> <p align="center"> <a href="https://leetcode.com/u/ogtimXU4Qi/" target="_blank"> <img alt="LeetCode Profile" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
