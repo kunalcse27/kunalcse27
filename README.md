@@ -34,9 +34,13 @@
 
 ---------------------------------------------------
 <p align="center">
+  <strong>Kunal's LeetCode stats</strong>
+</p>
+<p align="center">
   <a href="https://leetcode.com/u/ogtimXU4Qi/" target="_blank">
     <img alt="LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=ogtimXU4Qi&theme=dark&show_icons=true" />
   </a>
 </p>
+
 
 
