@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Kumar</h1>
 <h3 align="center">
-🚀 Computer Engineering Student | AI & Web Development <br>
+🚀Third-year Computer Engineering Student <br>
 📍 Mumbai, Maharashtra, India <br>
 💼 Open to Internships & Full-Time Opportunities | Available PAN India | Ready to Relocate
 </h3>
