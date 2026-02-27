@@ -30,22 +30,15 @@
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
 </p>
 
 ### 🤖 ML / Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,python,tensorflow,pytorch" />
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalcse27&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalcse27&layout=compact&theme=tokyonight" height="165"/>
-</p>
 
 ---
 
