@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunal Kumar</h1>
 <h3 align="center">
-🚀 Computer Engineering Student | AI Explorer <br>
-📍 From Mumbai, Maharashtra | 💼 💼 Open to Internships & Full-Time Roles
+🚀 Computer Engineering Student | AI & Web Development <br>
+📍 Mumbai, Maharashtra, India <br>
+💼 Open to Internships & Full-Time Opportunities | Available PAN India | Ready to Relocate
 </h3>
 <p align="center">
   <a href="https://github.com/kunalcse27">
