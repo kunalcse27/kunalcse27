@@ -43,12 +43,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-- 📚 Data Structures & Algorithms  
-- 🤖 AI & Machine Learning  
-- 🌍 Exploring real-world Web + ML projects  
-
 ---
 
 ## 🤝 Connect With Me
