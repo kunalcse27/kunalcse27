@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Third-Year Computer Engineering Student  
+🎓 Final-Year Computer Engineering Student  
 💡 Strong foundation in **Java (OOP), Python & SQL**  
 🌐 Hands-on experience in **Web Development**  
 🤖 Currently exploring **Artificial Intelligence & Machine Learning**  
